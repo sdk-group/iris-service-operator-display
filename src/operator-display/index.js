@@ -9,6 +9,7 @@ let tasks = [];
 
 module.exports = {
 	module: require('./operator-display.js'),
+	name: 'operator-display',
 	permissions: [],
 	exposed: true,
 	tasks: tasks,
